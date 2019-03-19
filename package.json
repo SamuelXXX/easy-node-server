@@ -1,0 +1,13 @@
+{
+  "name": "easy-node-webserver",
+  "version": "0.0.0",
+  "description": "An easy implementation of node js web server",
+  "main": "index.js",
+  "author": {
+    "name": "Samuel Tung",
+    "email": "samueltung9@gmail.com"
+  },
+  "dependencies": {
+    
+  }
+}
