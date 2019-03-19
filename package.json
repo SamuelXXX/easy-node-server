@@ -1,6 +1,6 @@
 {
-  "name": "easy-node-webserver",
-  "version": "0.0.0",
+  "name": "easy-node-server",
+  "version": "1.0.0",
   "description": "An easy implementation of node js web server",
   "main": "index.js",
   "author": {
