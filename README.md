@@ -14,8 +14,8 @@ Or you can launch server directly to get into the example web under "www" folder
 This server is able to display any kind of web page and web resources.
 
 However:
-Data posting not supported.
-Php or any other back-end program not supported.
+*Data posting not supported.
+*Php or any other back-end program not supported.
 
 So note this:No back-end programing.
 
